@@ -1,0 +1,16 @@
+.part-one{
+    display: flex;
+    
+    
+}
+.about{
+    text-align: center;
+    margin-top: 5%;
+    color: bisque;
+
+}
+.pg{
+    margin-top: 50px;
+    color: bisque;
+    word-wrap: break-word;
+}
